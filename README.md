@@ -17,12 +17,13 @@
 Clone from GitHub and source `uz.zsh`.
 
 ```sh
-git clone https://github.com/maxrodrigo/uz.git ~/.uz
+git clone https://github.com/maxrodrigo/uz.git ~/.config/zsh/uz
 ```
 
-```zsh
-# ~/.zshrc
-source ~/.uz/uz.zsh
+Add this linbe to `~/.zshrc`
+
+```sh
+source ~/.config/zsh/uz/uz.zsh
 ```
 
 ## Usage
