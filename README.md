@@ -10,14 +10,14 @@
  \_$
 ```
 
-![GitHub file size in bytes](https://img.shields.io/github/size/maxrodrigo/uz/uz.zsh?color=green&label=uz.zsh&logo=uz.zsh%20size&style=flat-square)
+![GitHub file size in bytes](https://img.shields.io/github/size/naderi/uz/uz.zsh?color=green&label=uz.zsh&logo=uz.zsh%20size&style=flat-square)
 
 ## Installation
 
 Clone from GitHub and source `uz.zsh`.
 
 ```sh
-git clone https://github.com/maxrodrigo/uz.git ~/.config/zsh/uz
+git clone https://github.com/naderi/uz.git ~/.config/zsh/uz
 ```
 
 Add this linbe to `~/.zshrc`
