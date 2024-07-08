@@ -20,7 +20,7 @@ Clone from GitHub and source `uz.zsh`.
 git clone https://github.com/naderi/uz.git ~/.config/zsh/uz
 ```
 
-Add this linbe to `~/.zshrc`
+Add this line to `~/.zshrc`
 
 ```sh
 source ~/.config/zsh/uz/uz.zsh
